@@ -1,1 +1,1 @@
-# internship_assignments
+#  Python Project
